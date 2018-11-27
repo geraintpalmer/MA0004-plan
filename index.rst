@@ -2,7 +2,7 @@ MA0004 Preliminary Mathematics 2 - Plan
 =======================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    week1.rst
