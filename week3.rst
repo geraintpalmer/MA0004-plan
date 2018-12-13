@@ -25,6 +25,6 @@ Tuesday 09:00 - 10:50
 
 + Probability theory activity
 
-  + Group activity: `True or False probability statements <../../_static/Probability-TrueFalse.pdf>`_:.
+  + Group activity: `True or False probability statements <_static/Probability-TrueFalse.pdf>`_:.
 
 + Work on tutorial sheet 2, probability.

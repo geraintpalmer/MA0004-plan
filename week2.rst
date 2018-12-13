@@ -10,7 +10,7 @@ Monday 10:00 - 10:50
 + Show online interactive Venn tool
 + Set theory activity
 
-  + Pair activity: `Venn diagram matching game <../../_static/venns-card-sort.pdf>`_
+  + Pair activity: `Venn diagram matching game <_static/venns-card-sort.pdf>`_
 
 
 Tuesday 09:00 - 10:50

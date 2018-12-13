@@ -15,7 +15,7 @@ Monday 10:00 - 10:50
 
 + "Good Mathematical Writing"
 
-  + Hand out the booklet `"Some Guidelines for Good Mathematical Writing" <../../_static/MathematicalWriting.pdf>`_ for everyone. Give students 15 minutes to read over the booklet.
+  + Hand out the booklet `"Some Guidelines for Good Mathematical Writing" <_static/MathematicalWriting.pdf>`_ for everyone. Give students 15 minutes to read over the booklet.
   + As a class summarise the booklet.
 
 + Use all this to agree on / remind students of coursework marking criteria.
