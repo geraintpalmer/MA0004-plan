@@ -14,4 +14,4 @@ Tuesday 09:00 - 10:50
 
 + Group activity - Match the hypothesis test to the scenario.
 
-+ Work on tutorial sheet 7 and 8
++ Work on tutorial sheet 7.

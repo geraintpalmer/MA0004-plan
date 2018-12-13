@@ -7,9 +7,10 @@ Monday 10:00 - 10:50
 --------------------
 
 + Introduction to set theory (some slides and class questions).
-+ Set theory activity (recap Monday session)
++ Show online interactive Venn tool
++ Set theory activity
 
-  + Pair activity: Venn diagram matching game
+  + Pair activity: `Venn diagram matching game <../../_static/venns-card-sort.pdf>`_
 
 
 Tuesday 09:00 - 10:50

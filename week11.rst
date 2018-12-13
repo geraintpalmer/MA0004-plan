@@ -8,8 +8,6 @@ Monday 10:00 - 10:50
 
 + Chance to revise anything in course up to now.
 
-+ Work on all previous problem sheets.
-
 
 Tuesday 09:00 - 10:50
 ---------------------

@@ -21,6 +21,6 @@ Monday 10:00 - 10:50
 Tuesday 09:00 - 10:50
 ---------------------
 
-+ Some activity on Independent events / conditional probability
-
 + Work on tutorial sheet 3, conditional probability.
+
++ 'Open' group question: "Each year 1 in 20,000 people die in a road accident in Britain, what’s the probability of dying in a road accident before turning a hundred years old?" (Give time to discuss approaches, assumptions, missing information. Can finish by discussing 'my' solution: `blog post <http://www.geraintianpalmer.org.uk/2018/02/25/road-deaths/>`_)
